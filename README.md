@@ -1,4 +1,5 @@
 # Management-von-Software-Projekten
+# WaveMeIn: Authentication via Brain Waves
 
 Institution: TU Vienna
 
